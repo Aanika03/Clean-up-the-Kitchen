@@ -1,0 +1,25 @@
+{
+  "task_name": "Clean-up the Kitchen",
+  "objective": "Restore the kitchen to a clean and organized state",
+  "steps": [
+    "Navigate to the kitchen",
+    "Scan the environment",
+    "Collect trash and dispose into trash bin",
+    "Place dishes into the sink",
+    "Organize kitchen items on counters and shelves",
+    "Wipe surfaces",
+    "Clean the floor",
+    "Verify task completion"
+  ],
+  "constraints": [
+    "Avoid collisions",
+    "Do not damage objects",
+    "Use safe joint movements"
+  ],
+  "completion_criteria": [
+    "No trash present",
+    "Dishes placed in sink",
+    "Counters organized",
+    "Floor clean"
+  ]
+}
